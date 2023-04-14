@@ -1,3 +1,3 @@
 <a href="https://app.daily.dev/illucent"><img src="https://github.com/illucent/illucent/blob/main/devcard.svg" width="555" alt="illucent's dev card"/></a>
 <br>
-[![Buy me a coffee](https://img.shields.io/badge/$-BuyMeACoffee-961F01.svg)](https://www.buymeacoffee.com/illucent)
+[![https://img.shields.io/badge/Ko--fi-support%20Me%20on%20Ko--fi-informational.svg](https://ko-fi.com/illucent)
