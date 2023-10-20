@@ -1,5 +1,5 @@
 
-<a href="https://app.daily.dev/illucent"><img src="https://github.com/illucent/illucent/blob/main/devcard.svg" width="350" alt="illucent's dev card"/></a>
+<a href="https://app.daily.dev/illucent"><img src="https://github.com/illucent/illucent/blob/main/devcard.svg" width="250" alt="illucent's dev card"/></a>
 <br>
 <br>
 <br>
