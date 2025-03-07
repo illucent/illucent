@@ -4,3 +4,4 @@
 <br>
 <br>
 [![GitHub Streak](https://img.shields.io/badge/Ko%20fi-support%20Me%20on%20Ko--fi-blue.svg?style=for-the-badge&labelColor=brown)](https://ko-fi.com/illucent)
+<a href="https://www.buymeacoffee.com/illucent" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
